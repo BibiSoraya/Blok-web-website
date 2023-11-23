@@ -107,7 +107,7 @@ Met de gele bril verandert de kleur blauw naar groen.</p>
 
   | Soufiane        | Tim                                              | Felix                   | Bibi                      |
   |Is html in order?| De vormgeving plan                               | website raar ingedeeld  | ---                       |
-  | dit bespreken   | responsive/ surfersplane? en ik dit              | typografie opdracht     |typografie opdracht 
+  | dit bespreken   | responsive/ surfersplane? en ik dit              | typografie opdracht     |typografie opdracht        |
   | en dat ook nog  | dit als er tijd is                               | nav website             |                           |
   | ...             | ...                                              | ...                     | andere website zoals Guess|
 
