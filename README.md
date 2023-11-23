@@ -37,15 +37,17 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Je opdracht:
   link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-
+  https://www.bol.com/nl/nl/ 
   #### Screenshot(s) van de eerste pagina (small screen): 
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img width="278" alt="image" src="https://github.com/BibiSoraya/Blok-web-website/assets/151039614/bf467d85-516e-4c5e-80b7-f24cdb80fecf">
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
- 
+<img width="278" alt="image" src="https://github.com/BibiSoraya/Blok-web-website/assets/151039614/ba437463-de36-40d3-8ca7-196f4ef9c791">
+
+
 </details>
 
 
@@ -54,7 +56,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
-
+Met de witte bevlekte bril waren grijze knoppen en licht grijze tekens niet goed te zien of niet zelfs. Ook als de knop te klein is, kan je de knop gauw over het hoofd zien. 
+Met de gele bril verandert de kleur blauw naar groen.
+  
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
