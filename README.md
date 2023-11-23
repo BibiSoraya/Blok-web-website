@@ -56,8 +56,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 <details>
   <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
-Met de witte bevlekte bril waren grijze knoppen en licht grijze tekens niet goed te zien of niet zelfs. Ook als de knop te klein is, kan je de knop gauw over het hoofd zien. 
-Met de gele bril verandert de kleur blauw naar groen.
+<p>Met de witte bevlekte bril waren grijze knoppen en licht grijze tekens niet goed te zien of niet zelfs. Ook als de knop te klein is, kan je de knop gauw over het hoofd zien. 
+Met de gele bril verandert de kleur blauw naar groen.</p>
   
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
