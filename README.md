@@ -94,15 +94,22 @@ Met de gele bril verandert de kleur blauw naar groen.</p>
   ### Stand van zaken
   hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
 
+  
+<img width="1440" alt="image" src="https://github.com/BibiSoraya/Blok-web-website/assets/151039614/4e7cb292-dd3d-4143-9e7a-baec6c41378c">
+
+
+
+
+
 
   ### Agenda voor meeting
   samen met je groepje opstellen
 
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | Soufiane        | Tim                                              | Felix                   | Bibi                      |
+  |Is html in order?| De vormgeving plan                               | website raar ingedeeld  | ---                       |
+  | dit bespreken   | responsive/ surfersplane? en ik dit              | typografie opdracht     |typografie opdracht 
+  | en dat ook nog  | dit als er tijd is                               | nav website             |                           |
+  | ...             | ...                                              | ...                     | andere website zoals Guess|
 
 
   ### Verslag van meeting
